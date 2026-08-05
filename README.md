@@ -1,6 +1,6 @@
-# Scientific Programming - Master Students 2025-2
+# Leveling course - Master Students 2026-2
 
-Welcome to the **Scientific Programming** course repository for the 2025-2 academic term! This repository is designed to provide all the necessary resources to help you succeed in this course. Below, you'll find information about the repository structure, including folders for lecture slides and Google Colab notebooks. We hope this repository will be a valuable resource for your learning journey.
+Welcome to the **Leveling course** repository for the 2022-2 academic term! This repository is designed to provide all the necessary resources to help you succeed in this course. Below, you'll find information about the repository structure, including folders for lecture slides and Google Colab notebooks. We hope this repository will be a valuable resource for your learning journey.
 
 ## Repository Structure
 
@@ -30,12 +30,18 @@ colabs/
 This folder contains the micro-curriculum of the course as well as the academic compromise, which will be explained in the first lecture.
 
 ### 4. `assignments/`
-This folder contains the assignments which will be uploaded and addressed during the semester.
+This folder contains the assignments which must be performed during the semester. However, they can be updated (be aware).
+**Assignments deadlines**:
+- First lab: September 20, 2026
+- Second lab: October 25, 2026
+- Third lab: November 15, 2026
+- Final lab: November 24, 2026
+- Oral dissertation: November 26, 2026
 
 
 ## Course Overview
 
-The **Scientific Programming** course is tailored for master students aiming to acquire practical skills in programming for scientific research. The course will cover essential topics such as data analysis, numerical methods, and visualization techniques using Python. Throughout the semester, you will engage in both theoretical lessons and practical coding sessions.
+The **Leveling course** is tailored for master students aiming to acquire practical skills in programming and an intuition of data analysis for scientific research. The course will cover essential topics such as data analysis, numerical methods, and visualization techniques using Python. Throughout the semester, you will engage in both theoretical lessons and practical coding sessions.
 
 ## Getting Started
 
@@ -43,7 +49,7 @@ To get started with the course:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://gitlab.com/sroldanvasco/scientific-programming-itm.git
+   git clone https://github.com/sebasroldanvasco/Scientific-programming.git
    ```
 2. Explore the `slides/` and `colabs/` folders to access the course materials.
 3. For Colab notebooks, open the `.ipynb` files directly in [Google Colab](https://colab.research.google.com/) for interactive learning.
@@ -61,7 +67,7 @@ If you have any questions or need further assistance, please reach out to the co
 
 ---
 
-We look forward to a productive and enjoyable semester with you all. Welcome to **Scientific Programming 2025-2**!
+We look forward to a productive and enjoyable semester with you all. 
 
 ---
 
