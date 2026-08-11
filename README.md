@@ -34,7 +34,7 @@ This folder contains the assignments which must be performed during the semester
 **Assignments deadlines**:
 - First lab: September 20, 2026
 - Second lab: October 25, 2026
-- Third lab: November 15, 2026
+- Oral examination: November 12, 2026
 - Final lab: November 24, 2026
 - Oral dissertation: November 26, 2026
 
