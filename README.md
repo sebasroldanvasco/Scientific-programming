@@ -1,6 +1,6 @@
-# Leveling course - Master Students 2026-2
+# Computational Foundations for Biomedical Engineering - Master Students 2026-2
 
-Welcome to the **Leveling course** repository for the 2022-2 academic term! This repository is designed to provide all the necessary resources to help you succeed in this course. Below, you'll find information about the repository structure, including folders for lecture slides and Google Colab notebooks. We hope this repository will be a valuable resource for your learning journey.
+Welcome to the **Computational Foundations for Biomedical Engineering** repository for the 2022-2 academic term! This repository is designed to provide all the necessary resources to help you succeed in this course. Below, you'll find information about the repository structure, including folders for lecture slides and Google Colab notebooks. We hope this repository will be a valuable resource for your learning journey.
 
 ## Repository Structure
 
@@ -41,7 +41,7 @@ This folder contains the assignments which must be performed during the semester
 
 ## Course Overview
 
-The **Leveling course** is tailored for master students aiming to acquire practical skills in programming and an intuition of data analysis for scientific research. The course will cover essential topics such as data analysis, numerical methods, and visualization techniques using Python. Throughout the semester, you will engage in both theoretical lessons and practical coding sessions.
+The **Computational Foundations for Biomedical Engineering** is tailored for master students aiming to acquire practical skills in programming and an intuition of data analysis for scientific research. The course will cover essential topics such as data analysis, numerical methods, and visualization techniques using Python. Throughout the semester, you will engage in both theoretical lessons and practical coding sessions.
 
 ## Getting Started
 
